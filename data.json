@@ -1,0 +1,26 @@
+[
+    {
+        "name": "deepak",
+        "age": 20,
+        "email": "deepak@gmail.com",
+        "pin": "1234",
+        "account_no": "06mew^3",
+        "balance": 0
+    },
+    {
+        "name": "Deepak Sahu",
+        "age": 20,
+        "email": "sdfgh",
+        "pin": "1234",
+        "account": "130B25CW",
+        "balance": 0
+    },
+    {
+        "name": "hgfd",
+        "age": 20,
+        "email": "hgfd",
+        "pin": "1234",
+        "account": "DFPI9R0E",
+        "balance": 0
+    }
+]
